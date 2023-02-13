@@ -1,4 +1,4 @@
-#WhatsApp to SpreadSheet.
+## WhatsApp to SpreadSheet.
 
 This is a WhatsApp bot which inserts the data into the Google sheet from WhatsApp built on Nodejs using `google-spreadsheet` and `whatsapp-web.js` npm packages
 
@@ -16,7 +16,7 @@ Usage:-
 - [@pmdnawaz1](https://www.github.com/pmdnawaz1)
 
 
-![Logo](https://icons8.com/icon/AltfLkFSP7XN/whatsapp)
+
 
 
 ## Environment Variables
